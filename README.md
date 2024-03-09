@@ -25,3 +25,5 @@ Alguns recursos para você vir se este para seu primeiro projeto Flutter:
 Para obter ajuda para vir com o desenvolvimento do Flutter, consulte o
 [documentação on-line](https://docs.flutter.dev/), que oferece tutoriais,
 amostras, orientações sobre desenvolvimento móvel e uma referência completa de API.
+
+    App configurado para android, ios e windows
