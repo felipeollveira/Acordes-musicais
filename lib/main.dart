@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 12, 12, 12),
+      backgroundColor: Color.fromARGB(255, 13, 13, 13),
       appBar: AppBar(
         title: const Text(
           'Acordes musicais app',
@@ -45,7 +45,8 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           children: [
             Padding(
-              padding: const EdgeInsets.only(top: 28.0, left: 0),
+              padding: const EdgeInsets.only(top: 28.0),
+              
               child: AcordesListView(
                 acordes: acordes,
                 backgroundColor: backgroundColor,
